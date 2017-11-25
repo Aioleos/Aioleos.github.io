@@ -1,5 +1,5 @@
 /**
- * Reset some basic elements
+ * Reset some basic elements 重设一些基础要素
  */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
 
 
 /**
- * Basic styling
+ * Basic styling 基础风格
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
@@ -28,7 +28,7 @@ body {
 
 
 /**
- * Set `margin-bottom` to maintain vertical rhythm
+ * Set `margin-bottom` to maintain vertical rhythm 设置margin-bottom来保持垂直规则
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
@@ -40,7 +40,7 @@ ul, ol, dl, figure,
 
 
 /**
- * Images
+ * Images 图像
  */
 img {
   max-width: 100%;
@@ -50,7 +50,7 @@ img {
 
 
 /**
- * Figures
+ * Figures 
  */
 figure > img {
   display: block;
@@ -63,7 +63,7 @@ figcaption {
 
 
 /**
- * Lists
+ * Lists 列表
  */
 ul, ol {
   margin-left: $spacing-unit;
@@ -79,7 +79,7 @@ li {
 
 
 /**
- * Headings
+ * Headings 标题
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /**
- * Links
+ * Links 链接
  */
 a {
   color: $brand-color;
@@ -132,7 +132,7 @@ blockquote {
 
 
 /**
- * Code formatting
+ * Code formatting 代码格式
  */
 pre,
 code {
@@ -193,7 +193,7 @@ pre {
 
 
 /**
- * Icons
+ * Icons 图标
  */
 .icon > svg {
   display: inline-block;

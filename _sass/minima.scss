@@ -1,8 +1,8 @@
 @charset "utf-8";
 
-// Define defaults for each variable.
+// Define defaults for each variable.为每个变量定义默认值。
 
-$base-font-family: "Hiragino Sans GB","Microsoft Yahei","Microsoft Yahei UI","Courier", Helvetica, Arial, sans-serif !default;
+$base-font-family: "Microsoft Yahei", Helvetica, Arial, sans-serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -18,7 +18,7 @@ $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
-// Width of the content area
+// Width of the content area 内容区域的宽度
 $content-width:    800px !default;
 
 $on-palm:          600px !default;
@@ -41,7 +41,7 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
-// Import partials.
+// Import partials.导入
 @import
   "minima/base",
   "minima/layout",
