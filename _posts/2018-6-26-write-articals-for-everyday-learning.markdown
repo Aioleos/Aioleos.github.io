@@ -9,3 +9,5 @@ title:  "记录新学习的东西"
 首先就从搭建这个博客开始写起吧。
 
 这个博客是由jekyll+github搭建起来的。
+
+jekyll是什么？github又是什么呢？
