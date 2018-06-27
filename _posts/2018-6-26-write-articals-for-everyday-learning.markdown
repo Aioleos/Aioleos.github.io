@@ -10,4 +10,10 @@ title:  "记录新学习的东西"
 
 这个博客是由jekyll+github搭建起来的。
 
-jekyll是什么？github又是什么呢？
+jekyll是什么？github又是什么呢？下面就开始本次的教程吧。
+
+一、注册github
+
+二、安装jekyll
+
+三、安装git
