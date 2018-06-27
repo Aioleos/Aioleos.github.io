@@ -27,7 +27,7 @@ title: Aioleos的博客之旅
 description: 
 keywords: 'jekyll,theme,gem-based,blog'
 author:
-  name:Aioleos
+  name: Aioleos
   job_title:
   location:
   email:
@@ -46,10 +46,6 @@ author:
       url: 
     - name: vk
       url:
-home:
-  section1: <h1>Aioleos的博客之旅</h1>
-  section2: <h2>Aioleos的博客之旅</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/Aioleos/Aioleos.github.io" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
