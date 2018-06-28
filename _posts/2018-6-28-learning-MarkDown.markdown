@@ -51,9 +51,7 @@ title:  "MarkDown初学"
 插入图片的语法也很简单，就是在插入链接的语法前面加上一个感叹号（!），也要注意在英文状态下输入。
 `![CloudApp](https://cl.ly/saZ0/rice.jpg)`
 ![CloudApp](https://cl.ly/saZ0/rice.jpg)
-`![CloudApp](https://cl.ly/2S3S2l2Z3R3s/rice.jpg)`
-![CloudApp](https://cl.ly/2S3S2l2Z3R3s/rice.jpg)
-以上其实是同一张图片，只是两个链接不一样，但是其实两个链接指向的也是同一个图片。只是长短网址的区别。CloudApp可以做网络存储，支持生成外链。所以图片可以放在上面，然后使用链接来显示在MarkDown书写的文字中。
+以上图片是我上传到CloudApp的图片。CloudApp支持生成外链，可以将图片放在上面，然后使用图片链接来显示在MarkDown书写的文字中，这里使用了CloudApp提供的短网址链接。
 ### （四）引用
 使用大于号（>）来实现引用一段文字。就是开头我引用雷军的那句话那样。
 > 引用一段文字
