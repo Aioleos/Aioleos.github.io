@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "记录新学习的东西"
+title:  "MarkDown初学"
 ---
 
 # MarkDown初学
