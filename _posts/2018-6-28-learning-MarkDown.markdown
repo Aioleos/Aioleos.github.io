@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "记录新学习的东西"
+---
+
 # MarkDown初学
 ## 一、初识MarkDown
 >没有设计就是最好的设计
