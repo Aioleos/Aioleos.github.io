@@ -2,7 +2,7 @@
 encoding: UTF-8
 exclude: ["*.gem", "*.gemspec", "Gemfile", "Gemfile.lock", "node_modules", "Rakefile", "starter-kit", "vendor"]
 lang: zh # Language code as defined in _data/i18n.yml. en, en-gb, en-us, zh, zh-cn, zh-tw etc.
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 
 whitelist: [jekyll-feed, jekyll-redirect-from, jekyll-seo-tag, jekyll-sitemap]
 plugins:
@@ -60,5 +60,5 @@ addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. r
 paths:
   home: /
   blog: /blog/
-  categories: /blog/categories/
-  tags: /blog/tags/
+  categories: /categories/
+  tags: /tags/
