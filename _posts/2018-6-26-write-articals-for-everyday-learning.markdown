@@ -12,8 +12,10 @@ title:  "记录新学习的东西"
 
 jekyll是什么？github又是什么呢？下面就开始本次的教程吧。
 
-一、注册github
+# 一、注册github
 
-二、安装jekyll
+# 二、安装jekyll
 
-三、安装git
+# 三、安装git
+
+未完待续
