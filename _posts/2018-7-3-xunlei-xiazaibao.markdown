@@ -24,5 +24,5 @@ aria2功能也就是下载功能，可以实现http。bt，磁力，ftp等下载
 具体的配置就是设置token用于加密，就相当于使用账号密码登录服务一样。然后更新一下tracker列表，可以使用[tracker链接](https://github.com/ngosang/trackerslist)中的tracker中的列表，最后勾选“启动”，然后保存并应用就可以了。
 
 ## 六、登录aria2管理界面
-登录aria2的管理界面用来管理下载操作，就是添加下载链接、文件进行下载管理的界面，这里使用![Aria2 Web 控制台](http://aria2c.com/)进行管理。在设置（一个长得像扳手的图标）中，
+登录aria2的管理界面用来管理下载操作，就是添加下载链接、文件进行下载管理的界面，这里使用[Aria2 Web 控制台](http://aria2c.com/)进行管理。在设置（一个长得像扳手的图标）中，
 JSON-RPC Path设置为这样的格式`http://token:xxx@下载宝IP:6800/jsonrpc`，其中token后面的xxx表示你在luci界面中设置的token值。然后就可以愉快的下载了。
